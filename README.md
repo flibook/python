@@ -1,2 +1,2 @@
 # python
-python pour netology!!!
+python pour netology!!
