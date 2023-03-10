@@ -2,8 +2,8 @@
 
 ## Решение 1
 
-[Cookbook.py]:https://github.com/flibook/devops-netology/blob/main/13-kubernetes-storage-part1/deployment.yaml <br />
+[Cookbook.py]:https://github.com/flibook/python/blob/main/7.files/cookbook.py <br />
 
 ## Решение 2
 
-[files.py]:https://github.com/flibook/devops-netology/blob/main/13-kubernetes-storage-part1/deployment.yaml <br />
+[files.py]:https://github.com/flibook/python/blob/main/7.files/files.py<br />
