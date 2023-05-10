@@ -11,3 +11,4 @@ for k in dict:
         res = k
 
 print(f'Супер интеллектуальный герой: {res["name"]} {res["powerstats"]["intelligence"]}')
+
